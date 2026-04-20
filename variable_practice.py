@@ -13,3 +13,9 @@ print(city)
 print("My name is " + name + " and I am " + str(age) + " years old. I live in " + city + ".")
 
 print("My name is {} and I am {} years old. I live in {}.".format(name, age, city))      
+
+name1 = "Mike"
+
+def name1():
+
+
